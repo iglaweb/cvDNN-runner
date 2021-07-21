@@ -11,7 +11,6 @@
 #include <opencv2/core/types_c.h>
 #include <opencv2/opencv.hpp>
 
-#include "../common/utils.h"
 #include "dnn_types.h"
 
 namespace evalexec {
